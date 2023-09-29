@@ -1,7 +1,6 @@
 import { EmailNotifier } from "../class/EmailNotifier";
 import { FacebookNotifier } from "../class/FacebookNotifier";
 import { SmsNotifier } from "../class/SmsNotifier";
-
 import { WhatsAppNotifier } from "../class/WhatsAppNotifier";
 
 export class NotifierService {
